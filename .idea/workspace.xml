@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80ae7855-f750-40f1-9fc7-18989c685d9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/4MonthHW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/films/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/books/книга.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/book_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/films/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/films/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/films/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/films/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/films/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/films/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/films/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/films/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +49,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.show_detail.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -49,6 +61,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media/books" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="show_detail.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/4MonthHW/templates/show_detail.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.show_detail.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,6 +98,10 @@
       <workItem from="1741336955723" duration="23000" />
       <workItem from="1741336986205" duration="1241000" />
       <workItem from="1741338269853" duration="781000" />
+      <workItem from="1741339220274" duration="4079000" />
+      <workItem from="1741349939695" duration="2468000" />
+      <workItem from="1741675082504" duration="31000" />
+      <workItem from="1741675154916" duration="4678000" />
     </task>
     <servers />
   </component>
