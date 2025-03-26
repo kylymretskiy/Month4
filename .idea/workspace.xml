@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80ae7855-f750-40f1-9fc7-18989c685d9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/basket/delete_task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/basket/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basket/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/basket/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tags/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tags/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/basket/task_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/basket/task_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/components/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
