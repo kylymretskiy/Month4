@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80ae7855-f750-40f1-9fc7-18989c685d9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/recipes/add_ingredient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/recipes/adds_recipe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/recipes/recipe_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/recipes/recipe_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/recipes/recipe_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/users/user_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users/user_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,6 +49,7 @@
     "Python.parser_janmates.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
